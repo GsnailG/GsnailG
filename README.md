@@ -5,6 +5,7 @@ I’m @GsnailG, better known as big_man_gareth or gareth,
 I’m currently learning NCEA Level 1 Digital Technologys
 I’m looking to collaborate on something?
 How to reach me, you can't.
+Maybe you can, 
 
 <!---
 GsnailG/GsnailG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
