@@ -1,6 +1,6 @@
-GSnailG 
-big_man_gareth
-gareth,
+- GSnailG 
+- big_man_gareth
+- gareth,
 
 <!---
 GsnailG/GsnailG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
