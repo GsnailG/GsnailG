@@ -1,13 +1,7 @@
 
 ## Kia Ora!
-## Heya!
-
-- [x] Poggers?
-yep
-
 
 ##### names i use
-
 - GSnailG 
 - big_man_gareth
 - gareth,
